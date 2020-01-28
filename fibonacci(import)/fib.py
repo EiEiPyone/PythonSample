@@ -11,11 +11,11 @@ import fibonacci
 # fibonacci.fib(10000)
 # --------------
 
-from fibonacci import fib, fib2, dog
+# from fibonacci import fib, fib2, dog
 
-f = fib(100)
-print(f)
-dog()
+# f = fib(100)
+# print(f)
+# dog()
 
 # f = fib2(500)
 # print(f)
@@ -26,6 +26,8 @@ dog()
 
 # fib(500)
 # print(fib2(500))
+# name()
+# dog()
 
 # ---------------
 
@@ -35,8 +37,8 @@ dog()
 
 # -------------
 
-# from fibonacci import fib as fibonacci
-# fibonacci(500)
+from fibonacci import fib as fibonacci
+fibonacci(500)
 
 # # https://docs.python.org/3/tutorial/modules.html#packages-in-multiple-directories
 
