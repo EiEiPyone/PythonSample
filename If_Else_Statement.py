@@ -176,4 +176,8 @@ int(input("Examination Result : "))
 >>> Loops
 
 if x >= 70 and x < 90 :
-		print("Grade B")
+		print("Grade B  ")
+
+
+		
+
